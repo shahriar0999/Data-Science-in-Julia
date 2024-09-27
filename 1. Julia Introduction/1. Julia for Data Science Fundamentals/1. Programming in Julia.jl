@@ -20,16 +20,8 @@ println(34 + 16)
 println(34)
 println(-34)
 
-## 6. Code Comments ##
-
-# INITIAL CODE
-
-println(34 + 16)
-println(34)
-println(-34)
 
 ## 7. Arithmetical Operations ##
-
 println(16 * 10)
 println(48 / 5)
 println(5^3)
