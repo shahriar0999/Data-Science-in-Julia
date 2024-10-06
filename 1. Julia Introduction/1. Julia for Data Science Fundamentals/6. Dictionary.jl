@@ -59,4 +59,6 @@ for word in words
     word_count[word] = get(word_count, word, 0) + 1
 end
 
-println(word_count)  # Outputs: Dict("banana" => 2, "orange" => 1, "apple" => 3)
+println(word_count)  
+# Outputs: Dict("banana" => 2, "orange" => 1, "apple" => 3)
+
